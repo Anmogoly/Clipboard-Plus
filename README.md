@@ -1,2 +1,3 @@
-# Clipboard-Plus
-This is my first ever programm for the public so it VERY BAD its simply just a cool clipboard
+Clipboard plus is bad and is not that usefull and its my first public programm
+Here is my github https://github.com/Anmogoly
+ok thats it
